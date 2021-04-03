@@ -2,4 +2,4 @@
 
  import posts from './posts';
 
- export const reducers = combineReducers({ posts });
+ export default combineReducers({ posts });
